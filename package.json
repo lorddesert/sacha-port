@@ -1,0 +1,15 @@
+{
+  "name": "sacha-env",
+  "version": "0.0.1",
+  "description": "A simple port seeker for learning purposes.",
+  "main": "index.js",
+  "keywords": ["free port", "port", "seeker", "port available"],
+  "author": "lorddesert",
+  "license": "MIT",
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
+}

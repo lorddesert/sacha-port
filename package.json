@@ -6,6 +6,9 @@
   "keywords": ["free port", "port", "seeker", "port available"],
   "author": "lorddesert",
   "license": "MIT",
+  "scripts": {
+    "test": "node indes.test.js"
+  },
   "eslintConfig": {
     "extends": "standard"
   },

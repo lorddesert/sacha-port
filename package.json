@@ -1,6 +1,6 @@
 {
-  "name": "sacha-env",
-  "version": "0.0.1",
+  "name": "sacha-port",
+  "version": "1.0.0",
   "description": "A simple port seeker for learning purposes.",
   "main": "index.js",
   "keywords": ["free port", "port", "seeker", "port available"],
